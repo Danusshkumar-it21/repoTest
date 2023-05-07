@@ -1,1 +1,2 @@
 Hello main file
+I added this new feature to your file
